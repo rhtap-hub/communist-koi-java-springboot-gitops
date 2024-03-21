@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: communist-koi-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-hub/communist-koi-java-springboot
